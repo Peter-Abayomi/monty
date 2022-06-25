@@ -108,18 +108,10 @@ When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 
 ## Authors
 <details>
-    <summary>Chukwuka Okorie</summary>
+    <summary>Peter Abayomi</summary>
     <ul>
-    <li><a href="https://www.github.com/bhirkoff">Github</a></li>
-    <li><a href="https://www.twitter.com/bhirkoff">Twitter</a></li>
-    <li><a href="https://chuksdav4@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Precious Nwaigbo</summary>
-    <ul>
-    <li><a href="https://www.github.com/Tactical98">Github</a></li>
-    <li><a href="https://www.twitter.com/Tactical_MR_P">Twitter</a></li>
-    <li><a href="https://preciousnwaigbo98@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/peter-abayomi">Github</a></li>
+    <li><a href="https://www.twitter.com/serventics">Twitter</a></li>
+    <li><a href="https://datayomi@gmail.com">e-mail</a></li>
     </ul>
 </details>
